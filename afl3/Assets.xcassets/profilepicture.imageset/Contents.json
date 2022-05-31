@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "hipwee-3849123addb91485a47a2cc123e9beac-34398fb905cdbb9bd0030dbf458bfb55-750x422.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
